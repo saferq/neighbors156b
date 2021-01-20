@@ -1,0 +1,15 @@
+table {
+    width: 30rem; 
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+  }
+
+  tr {
+    border: 1px solid;
+  }
+
+  td {
+    text-align: center;
+    border: 1px solid;
+    padding: 5px;
+  }
